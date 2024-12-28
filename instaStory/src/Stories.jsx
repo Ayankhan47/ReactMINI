@@ -80,7 +80,7 @@ const Stories = () => {
           <div className="w-full bottom px-6 text-white flex items-center justify-around">
             <input
               placeholder="Massage?"
-              className="outline-none place text-sm border h-[1.6vw] w-[80%] border-white  rounded-3xl bg-transparent "
+              className="outline-none placeholder:text-white px-4 text-sm border h-[1.6vw] w-[80%] border-white  rounded-3xl bg-transparent "
               type="text"
             />
             <div id="essentials" className="flex gap-2">
